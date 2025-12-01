@@ -67,7 +67,7 @@ It provides secure authentication, transaction management, category-based spendi
 
 Run the application and open:
 
-``` http://<host_name>/swagger-ui/index.html ```
+``` https://spendwise-backend-vsa2.onrender.com/swagger-ui/index.html ```
 
 # Tech Stack
 
