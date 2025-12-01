@@ -33,6 +33,7 @@ public class SignupServiceImpl implements SignupService {
         AuthUser authUser = AuthUser.builder()
                 .email(signupRequest.email())
                 .password(pass)
+                .updatedAt(LocalDateTime.now())
                 .build();
 
         authUserRepository.save(authUser);
