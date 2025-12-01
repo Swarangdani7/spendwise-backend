@@ -12,7 +12,8 @@
 	<artifactId>spendwise</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpendWise</name>
-	<description>A personal finance app to track income, expenses, savings and daily spending insights</description>
+    <packaging>jar</packaging>
+    <description>A personal finance app to track income, expenses, savings and daily spending insights</description>
 	<url/>
 	<licenses>
 		<license/>
